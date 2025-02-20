@@ -1,0 +1,48 @@
+┌ Info: 2025-02-20 03:13:13 Watching ["/home/codebabe/Desktop/build_genie/SoilMeasurements"]
+└ @ GenieAutoReload /home/codebabe/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:19
+┌ Info: 2025-02-20 03:13:25 Autoreloading
+└ @ GenieAutoReload /home/codebabe/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2025-02-20 03:13:38 
+│ Web Server starting at http://127.0.0.1:8000 
+└ @ Genie.Server /home/codebabe/.julia/packages/Genie/clZWW/src/Server.jl:182
+┌ Info: 2025-02-20 03:13:38 Listening on: 127.0.0.1:8000, thread id: 1
+└ @ HTTP.Servers /home/codebabe/.julia/packages/HTTP/4AUPl/src/Servers.jl:382
+┌ Info: 2025-02-20 03:22:48 Autoreloading
+└ @ GenieAutoReload /home/codebabe/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2025-02-20 03:22:48 Calling finalizers
+└ @ Stipple /home/codebabe/.julia/packages/Stipple/xIOrC/src/Stipple.jl:534
+┌ Info: 2025-02-20 03:22:50 Autoreloading
+└ @ GenieAutoReload /home/codebabe/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2025-02-20 03:22:59 Calling finalizers
+└ @ Stipple /home/codebabe/.julia/packages/Stipple/xIOrC/src/Stipple.jl:534
+┌ Info: 2025-02-20 03:23:39 Calling finalizers
+└ @ Stipple /home/codebabe/.julia/packages/Stipple/xIOrC/src/Stipple.jl:534
+┌ Info: 2025-02-20 16:22:35 Watching ["/home/codebabe/Desktop/build_genie/SoilMeasurements"]
+└ @ GenieAutoReload /home/codebabe/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:19
+┌ Info: 2025-02-20 16:22:48 Autoreloading
+└ @ GenieAutoReload /home/codebabe/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2025-02-20 16:22:57 
+│ Web Server starting at http://127.0.0.1:8000 
+└ @ Genie.Server /home/codebabe/.julia/packages/Genie/clZWW/src/Server.jl:182
+┌ Info: 2025-02-20 16:22:57 Listening on: 127.0.0.1:8000, thread id: 1
+└ @ HTTP.Servers /home/codebabe/.julia/packages/HTTP/4AUPl/src/Servers.jl:382
+┌ Info: 2025-02-20 16:25:20 Autoreloading
+└ @ GenieAutoReload /home/codebabe/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2025-02-20 16:25:20 Calling finalizers
+└ @ Stipple /home/codebabe/.julia/packages/Stipple/xIOrC/src/Stipple.jl:534
+┌ Info: 2025-02-20 16:25:37 Calling finalizers
+└ @ Stipple /home/codebabe/.julia/packages/Stipple/xIOrC/src/Stipple.jl:534
+┌ Info: 2025-02-20 16:28:13 Autoreloading
+└ @ GenieAutoReload /home/codebabe/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2025-02-20 16:28:13 Calling finalizers
+└ @ Stipple /home/codebabe/.julia/packages/Stipple/xIOrC/src/Stipple.jl:534
+┌ Info: 2025-02-20 16:28:18 Autoreloading
+└ @ GenieAutoReload /home/codebabe/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2025-02-20 16:28:18 Calling finalizers
+└ @ Stipple /home/codebabe/.julia/packages/Stipple/xIOrC/src/Stipple.jl:534
+┌ Info: 2025-02-20 16:28:37 Autoreloading
+└ @ GenieAutoReload /home/codebabe/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2025-02-20 16:28:37 Calling finalizers
+└ @ Stipple /home/codebabe/.julia/packages/Stipple/xIOrC/src/Stipple.jl:534
+┌ Info: 2025-02-20 16:28:39 Autoreloading
+└ @ GenieAutoReload /home/codebabe/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
