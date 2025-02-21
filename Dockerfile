@@ -1,18 +1,17 @@
-# Use the official Julia image from Docker Hub
-FROM julia:1.7
+# Use an official Julia image as the base
+FROM julia:1.9
 
-# Set the working directory inside the container
+# Set the working directory
 WORKDIR /app
 
-# Copy your project files into the container
+# Copy the project files
 COPY . .
 
-# Install dependencies and precompile packages
-RUN julia -e 'using Pkg; Pkg.instantiate(); Pkg.precompile()'
+# Install required Julia packages (including Dash)
+RUN julia -e 'using Pkg; Pkg.activate("."); Pkg.instantiate(); Pkg.add(["Dash", "Genie", "CSV", "DataFrames"])'
 
-# Ensure your app listens on the port provided by Render
-# In your dashboard.jl, update the run command to:
-# run_server(app, "0.0.0.0", parse(Int, get(ENV, "PORT", "8050")), debug=true)
+# Expose the port Dash.jl uses (default 8050) or Genie (8000)
+EXPOSE 8050
 
-# Start the application
+# Start the Dash or Genie app
 CMD ["julia", "dashboard.jl"]
